@@ -30,7 +30,7 @@ Você pode baixar o executável aqui:
 
 ![Screenshot do Config Windows](imgs/projeto.png)
 
-> *Dica:* Para garantir que a imagem apareça no GitHub, mantenha a estrutura da pasta `img/` junto com o README no repositório.
+
 
 ---
 
