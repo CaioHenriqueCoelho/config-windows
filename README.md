@@ -1,6 +1,6 @@
-# Config Windows
+# Config Windows 10
 
-Projeto para uma rápida configuração do Windows com foco em desempenho.
+Projeto para uma rápida configuração do Windows 10 com foco em desempenho.
 
 ---
 
