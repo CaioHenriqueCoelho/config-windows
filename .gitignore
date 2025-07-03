@@ -1,0 +1,61 @@
+#############################
+# .gitignore para C# (WinForms / Visual Studio)
+#############################
+
+# Build e artefatos temporários
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Arquivos de publicação
+*.publish/
+*.deploy/
+*.msi
+*.zip
+
+# Arquivos gerados por usuário da IDE
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pastas e arquivos do Visual Studio
+.vs/
+.vscode/
+Generated\ Files/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Configurações locais
+launchSettings.json
+
+# Pacotes (pode subir se quiser fixar a versão)
+packages/
+*.nupkg
+
+# Teste
+TestResults/
+*.TestResults/
+
+# Configurações de ambiente (ex: secrets, configs locais)
+appsettings.Development.json
+secrets.json
+
+# Logs e dumps
+*.log
+*.dmp
+
+# Arquivos temporários e sistema
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
